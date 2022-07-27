@@ -1,1 +1,1 @@
-# intership-linner-regreation
+# Internship-Linear-regression
